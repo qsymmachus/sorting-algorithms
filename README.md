@@ -9,7 +9,6 @@ This is a collection of common sorting algorithms implemented in Ruby, Javascrip
 
 ###To be implemented
 
-* Merge sort
 * Heap sort
 * Add any algorithm you like!
 
