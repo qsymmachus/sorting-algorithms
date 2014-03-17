@@ -5,6 +5,7 @@ This is a collection of common sorting algorithms implemented in Ruby, Javascrip
 ###Implemented
 
 * Quicksort (Ruby)
+* Merge sort (Ruby)
 
 ###To be implemented
 
