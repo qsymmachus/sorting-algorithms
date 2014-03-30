@@ -7,11 +7,8 @@ This is a collection of common sorting algorithms implemented in Ruby, Javascrip
 * Quicksort (Ruby)
 * Merge sort (Ruby)
 * Bogosort (Ruby)
+* Insertion sort (Ruby)
 
-###To be implemented
-
-* Heap sort
-* Add any algorithm you like!
 
 ###Resources
 
